@@ -47,17 +47,17 @@
                FontAttributes="Bold"
                TextColor="White"/>
 
-        <Button CornerRadius="10" Grid.Row="1" Grid.Column="0" Clicked="Button_Clicked"/>
-        <Button CornerRadius="10" Grid.Row="1" Grid.Column="1" Clicked="Button_Clicked"/>
-        <Button CornerRadius="10" Grid.Row="1" Grid.Column="2" Clicked="Button_Clicked"/>
+        <Button x:Name="button_10" CornerRadius="10" Grid.Row="1" Grid.Column="0" Clicked="Button_Clicked"/>
+        <Button x:Name="button_11" CornerRadius="10" Grid.Row="1" Grid.Column="1" Clicked="Button_Clicked"/>
+        <Button x:Name="button_12" CornerRadius="10" Grid.Row="1" Grid.Column="2" Clicked="Button_Clicked"/>
 
-        <Button CornerRadius="10" Grid.Row="2" Grid.Column="0" Clicked="Button_Clicked"/>
-        <Button CornerRadius="10" Grid.Row="2" Grid.Column="1" Clicked="Button_Clicked"/>
-        <Button CornerRadius="10" Grid.Row="2" Grid.Column="2" Clicked="Button_Clicked"/>
+        <Button x:Name="button_20" CornerRadius="10" Grid.Row="2" Grid.Column="0" Clicked="Button_Clicked"/>
+        <Button x:Name="button_21" CornerRadius="10" Grid.Row="2" Grid.Column="1" Clicked="Button_Clicked"/>
+        <Button x:Name="button_22" CornerRadius="10" Grid.Row="2" Grid.Column="2" Clicked="Button_Clicked"/>
 
-        <Button CornerRadius="10" Grid.Row="3" Grid.Column="0" Clicked="Button_Clicked"/>
-        <Button CornerRadius="10" Grid.Row="3" Grid.Column="1" Clicked="Button_Clicked"/>
-        <Button CornerRadius="10" Grid.Row="3" Grid.Column="2" Clicked="Button_Clicked"/>
+        <Button x:Name="button_30" CornerRadius="10" Grid.Row="3" Grid.Column="0" Clicked="Button_Clicked"/>
+        <Button x:Name="button_31" CornerRadius="10" Grid.Row="3" Grid.Column="1" Clicked="Button_Clicked"/>
+        <Button x:Name="button_32" CornerRadius="10" Grid.Row="3" Grid.Column="2" Clicked="Button_Clicked"/>
 
     </Grid>
 
